@@ -7,9 +7,8 @@ ________________________________________________________________________________
 - 📱  Also a Tech Freak, gotta be updated with all the latest tech trends !
 - 📷 I also happen to be a photographer !
 - 🎶 I love listening to music !
-- 2021 Goals : To have a complete understanding of Web Development. 🌐<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To do small internships to gain more experience. 👨🏻‍💼<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Practice more languages !! 💻
+- 2023 Goals : To do small internships to gain more experience. 👨🏻‍💼<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Practice Java and C++ !! 💻
 
 ________________________________________________________________________________________________________________________________________________
 ### ⚡ Connect With Me:
