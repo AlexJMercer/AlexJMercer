@@ -1,6 +1,4 @@
-<center>
-
-# Hi, I'm Tathagata 👋
+# <center>Hi, I'm Tathagata 👋</center>
 
 ## 💫 About Me:
 🎓 I'm a `junior` pursuing `B.Tech` in Computer Science and Engineering.
@@ -48,4 +46,4 @@
 \
 ![visitor count](https://visitcount.itsvg.in/api?id=AlexJMercer&label=Visitor%20Count&color=0&icon=7&pretty=true)
 
-</center>
+
